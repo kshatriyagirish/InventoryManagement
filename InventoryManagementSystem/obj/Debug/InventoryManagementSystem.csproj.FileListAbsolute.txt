@@ -1,0 +1,134 @@
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\ApplicationInsights.config
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\roslyn\csc.exe
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\roslyn\vbc.exe
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\roslyn\VBCSCompiler.exe
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\InventoryManagementSystem.dll.config
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\InventoryManagementSystem.dll
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\InventoryManagementSystem.pdb
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\Antlr3.Runtime.dll
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\EntityFramework.dll
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\EntityFramework.SqlServer.dll
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\Microsoft.AI.Web.dll
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\Microsoft.AI.WindowsServer.dll
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\Microsoft.ApplicationInsights.dll
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\Newtonsoft.Json.dll
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\System.Web.Helpers.dll
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\System.Web.Mvc.dll
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\System.Web.Optimization.dll
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\System.Web.Razor.dll
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\System.Web.WebPages.Deployment.dll
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\System.Web.WebPages.dll
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\System.Web.WebPages.Razor.dll
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\WebGrease.dll
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\EntityFramework.xml
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\EntityFramework.SqlServer.xml
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\Microsoft.AI.Web.xml
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\Microsoft.AI.WindowsServer.xml
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\Microsoft.ApplicationInsights.xml
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\System.Web.Helpers.xml
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\System.Web.Mvc.xml
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\System.Web.Optimization.xml
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\System.Web.Razor.xml
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\System.Web.WebPages.xml
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\System.Web.WebPages.Deployment.xml
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\System.Web.WebPages.Razor.xml
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\Antlr3.Runtime.pdb
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\Newtonsoft.Json.xml
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csprojResolveAssemblyReference.cache
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.dll
+c:\users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
+C:\Users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\RdlCompile.cache
+C:\Users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\RdlCompile.compiled
+C:\Users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\Microsoft.SqlServer.Types.dll
+C:\Users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ubaid sheikh\documents\visual studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.dll
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\ApplicationInsights.config
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\roslyn\csc.exe
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\roslyn\vbc.exe
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\InventoryManagementSystem.dll.config
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\InventoryManagementSystem.dll
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\InventoryManagementSystem.pdb
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\Antlr3.Runtime.dll
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\EntityFramework.dll
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\Microsoft.AI.Web.dll
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\System.Web.Optimization.dll
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\System.Web.Razor.dll
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\System.Web.WebPages.dll
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\WebGrease.dll
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\EntityFramework.xml
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\Microsoft.AI.Web.xml
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\System.Web.Optimization.xml
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\System.Web.Razor.xml
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\System.Web.WebPages.xml
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Girish K\Downloads\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.CopyComplete
